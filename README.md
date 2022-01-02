@@ -1,3 +1,9 @@
+# Soluciones a DAMN VULNERABLE DEFI
+
+Dado que en general despues de resolver algunos retos olvido la leccion decidi crear este modesto blog para aprender la leccion y compartir mis soluciones
+
+**https://eugenioclrc.github.io/damn-vulnerable-defi/**
+
 ![](cover.png)
 
 **A set of challenges to hack implementations of DeFi in Ethereum.**
