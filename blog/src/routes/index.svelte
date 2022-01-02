@@ -1,8 +1,7 @@
 <script context="module">
 	import { browser, dev } from '$app/env';
 
-	import fs from 'fs';
-	// import dayjs from 'dayjs';
+	//import dayjs from 'dayjs';
 
 
 	// we don't need any JS on this page, though we'll load
@@ -24,11 +23,6 @@
 
 	export let posts = [];
 
-	
-  import { onMount } from 'svelte';
-  onMount(() => {
-    console.log(posts);
-    })
 </script>
 <svelte:head>
 	<title>DAMN vulnerable defi blog (Soluciones y spoilers)</title>
