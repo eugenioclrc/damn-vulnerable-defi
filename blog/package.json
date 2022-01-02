@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "package": "svelte-kit package",
+    "preview": "svelte-kit preview",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-static": "next",
+    "@sveltejs/kit": "next",
+    "eslint": "^8.6.0",
+    "eslint-plugin-svelte3": "^3.2.1",
+    "svelte": "^3.44.3",
+    "dayjs": "^1.10.7",
+		"js-yaml": "^4.1.0",
+		"rehype-highlight": "^5.0.2",
+		"rehype-stringify": "^9.0.2",
+		"remark-frontmatter": "^4.0.1",
+		"remark-gfm": "^3.0.1",
+		"remark-parse": "^10.0.1",
+		"remark-rehype": "^10.1.0",
+		"sass": "^1.45.2",
+		"svelte-preprocess": "^4.10.1",
+		"to-vfile": "^7.2.3",
+		"unified": "^10.1.1"
+		
+  },
+  "type": "module",
+  "dependencies": {
+    "@fontsource/fira-mono": "^4.5.0",
+    "@lukeed/uuid": "^2.0.0",
+    "cookie": "^0.4.1"
+  }
+}
