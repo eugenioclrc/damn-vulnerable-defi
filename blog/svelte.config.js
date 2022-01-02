@@ -5,6 +5,9 @@ const dev = process.env.NODE_ENV === 'development';
 
 export default {
 	kit: {
+		serviceWorker: {
+			register: false,
+		},
 		adapter: adapter({
 			// default options are shown
 			pages: 'docs',
