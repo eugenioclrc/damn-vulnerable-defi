@@ -1,4 +1,4 @@
-const timestamp = 1641153537307;
+const timestamp = 1641240596186;
 const build = [
   "/damn-vulnerable-defi/_app/start-296f0462.js",
   "/damn-vulnerable-defi/_app/assets/start-61d1577b.css",
