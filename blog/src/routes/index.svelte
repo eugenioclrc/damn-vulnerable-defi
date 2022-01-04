@@ -32,6 +32,10 @@
 	<h1>Soluciones a Damn Vulnerable Defi</h1>
   <p class="info">{posts.length} posts.</p>
   {#each posts as post}
+		<hr style=" border: 0;
+    height: 1px;
+    background: #ff3e00;
+    background: linear-gradient(to right,  #ff3e00 50%, #ff0000 50%);" />
     <a href={`${base}/${post.slug}`}>
       <h2 class="title">{post.metadata && post.metadata.title}</h2>
       <p>{post.metadata && post.metadata.excerpt}</p>

@@ -1,5 +1,5 @@
 ---
-title: Solucion al challenge \#1 Unstoppable
+title: Solucion al challenge .#1 Unstoppable
 date: 2022-01-2
 excerpt: Challenge; hay una lending pool con un millon de tokens DVT, estan ofreciendo flash loans gratis. Si tan solo existiera una forma de atacar la pool y detenerla... Comenzaras con 100 DVT tokens.
 ---

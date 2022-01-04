@@ -1,16 +1,16 @@
-const timestamp = 1641240596186;
+const timestamp = 1641331908435;
 const build = [
-  "/damn-vulnerable-defi/_app/start-296f0462.js",
+  "/damn-vulnerable-defi/_app/start-02ba3c51.js",
   "/damn-vulnerable-defi/_app/assets/start-61d1577b.css",
-  "/damn-vulnerable-defi/_app/pages/__layout.svelte-ce5aed82.js",
+  "/damn-vulnerable-defi/_app/pages/__layout.svelte-71381061.js",
   "/damn-vulnerable-defi/_app/assets/pages/__layout.svelte-b7b55406.css",
-  "/damn-vulnerable-defi/_app/error.svelte-344c5e79.js",
-  "/damn-vulnerable-defi/_app/pages/index.svelte-dbbc4b82.js",
-  "/damn-vulnerable-defi/_app/pages/about.svelte-32840ecd.js",
+  "/damn-vulnerable-defi/_app/error.svelte-f5ba2888.js",
+  "/damn-vulnerable-defi/_app/pages/index.svelte-2360a2ff.js",
+  "/damn-vulnerable-defi/_app/pages/about.svelte-b5831015.js",
   "/damn-vulnerable-defi/_app/assets/pages/about.svelte-bf4528fa.css",
-  "/damn-vulnerable-defi/_app/pages/_slug_.svelte-851e49a4.js",
+  "/damn-vulnerable-defi/_app/pages/_slug_.svelte-cd782bf2.js",
   "/damn-vulnerable-defi/_app/assets/pages/_slug_.svelte-a65f70ba.css",
-  "/damn-vulnerable-defi/_app/chunks/vendor-e408b87e.js",
+  "/damn-vulnerable-defi/_app/chunks/vendor-d04be387.js",
   "/damn-vulnerable-defi/_app/chunks/paths-28a87002.js",
   "/damn-vulnerable-defi/_app/chunks/env-a13806e5.js"
 ];

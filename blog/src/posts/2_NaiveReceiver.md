@@ -1,5 +1,5 @@
 ---
-title: Solucion al challenge \#2 Naive Receiver
+title: Solucion al challenge .#2 Naive Receiver
 date: 2022-01-3
 excerpt: Hay una lending pool que ofrece flash loans de ethers, tiene 1000 ethers. Tambien vez que un usuario deployeo un contrato con un balance de 10 ETH que es capaz de interactuar con el lending pool y realizar flash loans. Tu objetivo es disminuir/drenar el balance de este contrato. Hacerlo en una sola transaccion es un plus.
 ---
